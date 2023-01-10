@@ -12,12 +12,12 @@
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px">
 <div style="display: flex; gap: 10px; align-items: center; background: aqua; width: max-content; padding: 2px; border-radius: 3px; font-size: 16px; font-weight: bold; color: white">
-<img src="https://res.cloudinary.com/densoft-developers/image/upload/v1673388311/git%20readme/react_gcq3lj.svg" width="20px">
+<img src="https://res.cloudinary.com/densoft-developers/image/upload/v1673392550/git%20readme/icons8-react-native_n8all9.svg" width="20px">
 react
 </div>
 
 <div style="display: flex; gap: 10px; align-items: center; background: aqua; width: max-content; padding: 2px; border-radius: 3px; font-size: 16px; font-weight: bold; color: white">
-<img src="https://res.cloudinary.com/densoft-developers/image/upload/v1673389041/git%20readme/java_ie5qef.svg" width="20px">
+<img src="https://res.cloudinary.com/densoft-developers/image/upload/v1673392550/git%20readme/icons8-java_miurbo.svg" width="20px">
 Java
 </div>
 
