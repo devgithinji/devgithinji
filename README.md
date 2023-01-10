@@ -27,11 +27,6 @@ Spring
 </div>
 
 <div style="display: flex; gap: 10px; align-items: center; background: aqua; width: max-content; padding: 2px; border-radius: 3px; font-size: 16px; font-weight: bold; color: white">
-<img src="https://res.cloudinary.com/densoft-developers/image/upload/v1673389348/git%20readme/spring-icon_pfygmb.svg" width="20px">
-Spring
-</div>
-
-<div style="display: flex; gap: 10px; align-items: center; background: aqua; width: max-content; padding: 2px; border-radius: 3px; font-size: 16px; font-weight: bold; color: white">
 <img src="https://res.cloudinary.com/densoft-developers/image/upload/v1673389571/git%20readme/springboot_ycixl3.svg" width="20px">
 Spring Boot
 </div>
