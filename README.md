@@ -4,7 +4,7 @@
 <h1>Hi 👋 I'm Dennis Githinji</h1>
 <p>I am a fullstack developer specializing in web and mobile applications development</p>
 <p>I love problem solving and exploring new tech trends, outside tech I love watching motor vehicle reviews and day dreaming 😆</p>
-<h4>visit my 👉 <a href="https://dennis-githinji.vercel.app">portfolio</a> </h4>
+<h4>visit my 👉 <a href="https://dennis-githinji.herokuapp.com">portfolio</a> </h4>
 </div>
 
 <div>
